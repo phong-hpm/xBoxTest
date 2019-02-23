@@ -47,4 +47,3 @@ function findDataByName(str) {
     )
   return dataReturn
 }
-let dataOut = findDataByName('phương hướng')
